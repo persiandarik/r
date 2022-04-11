@@ -45,3 +45,6 @@
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
+
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
