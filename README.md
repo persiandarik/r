@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Iran 🇮R
+I'm a self-taught passionate FrontEnd developer from Iran 🇮🇷
 
 **About me**
 
