@@ -29,11 +29,10 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=persiandarik&show_icons=true&include_all_commits=true&theme=buefy&rank_icon=github&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=persiandarik&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-- [x] 
 #### Top Repositories
 
 
-- [x] <a href="https://github.com/persiandarik/persiandarik">
+<a href="https://github.com/persiandarik/persiandarik">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=persiandarik&repo=persiandarik&theme=buefy" />
 </a>
 <a href="https://github.com/persiandarik/persiandarik.github.io">
@@ -42,7 +41,7 @@
 
 
 
-- [x] <a href="https://twitter.com/persiandarik">
+<a href="https://twitter.com/persiandarik">
   <img align="right" alt="persiandarik | Twitter" height="20" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
@@ -54,6 +53,6 @@
 - [ ] vue -->
 
 
-- [x] Watch my contribution graph eaten by the snake🐍
+### Watch my contribution graph eaten by the snake🐍
 
 ![snake gif](https://github.com/persiandarik/persiandarik/blob/output/github-contribution-grid-snake.gif)
