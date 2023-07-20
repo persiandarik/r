@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://persiandarik.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
@@ -8,32 +8,35 @@
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Freelancer FrontEnd Engineer
+<!-- - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/) -->
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+<!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub -->
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing JavaScript, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/persiandarik/persiandarik/issues)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+- <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-3628858-3029998.png?f=avif&w=256"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=avif&w=256"></code> 
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/free-css3-11-1175239.png"></code> 
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=persiandarik&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=persiandarik&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=persiandarik&show_icons=true&include_all_commits=true&theme=buefy&rank_icon=github&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=persiandarik&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/persiandarik/persiandarik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=persiandarik&repo=persiandarik&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/persiandarik/persiandarik.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=persiandarik&repo=persiandarik.github.io&theme=buefy" />
 </a>
 
 <br />
