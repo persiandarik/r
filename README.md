@@ -40,17 +40,13 @@
 </a>
 
 <br />
-<br />
 
 <a href="https://twitter.com/persiandarik">
   <img align="right" alt="persiandarik | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<!-- <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a> -->
-
-<br />
-<br />
 
 ## Watch my contribution graph eaten by the snake🐍
+
+<br />
+
 ![snake gif](https://github.com/persiandarik/persiandarik/blob/output/github-contribution-grid-snake.gif)
