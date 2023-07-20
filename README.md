@@ -2,7 +2,7 @@
 
 <br />
 
-<img align="right" padding-left="20px" alt="GIF" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif" width="480" height="320" />
+<img padding-left="20px" alt="GIF" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif" width="480" height="320" />
 
 ## I'm a self-taught passionate FrontEnd developer from Iran 🇮🇷
 
