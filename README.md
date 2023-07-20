@@ -41,12 +41,9 @@
 
 
 
-<code><a href="https://twitter.com/persiandarik">
-  <img  alt="persiandarik | Twitter" height="20" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a></code>
-<code><a href="https://twitter.com/persiandarik">
-  <img alt="persiandarik | Twitter" height="20" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a></code>
+<a href="https://twitter.com/persiandarik">
+  <img align="right" alt="persiandarik | Twitter" height="20" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
 <!-- ## Task List
 
