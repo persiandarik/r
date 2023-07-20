@@ -36,13 +36,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=persiandarik&repo=persiandarik&theme=buefy" />
 </a>
 <a href="https://github.com/persiandarik/persiandarik.github.io">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=persiandarik&repo=persiandarik.github.io&theme=buefy" />
+  <img height="40px" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=persiandarik&repo=persiandarik.github.io&theme=buefy" />
 </a>
 
-<span height="20" width="100%"></span>
 
 <a href="https://twitter.com/persiandarik">
-  <img align="right" alt="persiandarik | Twitter" height="20" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="persiandarik | Twitter" height="20px" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 **Watch my contribution graph eaten by the snake🐍**
