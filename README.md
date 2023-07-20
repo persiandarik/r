@@ -47,9 +47,9 @@
 
 ## Task List
 
-- [x] Fix Bug 223
-- [ ] Add Feature 33
-- [ ] Add unit tests
+- [x] html [x] css [x] js
+- [ ] vue
+
 
 <!-- **Watch my contribution graph eaten by the snake🐍**
 
