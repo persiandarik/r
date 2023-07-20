@@ -34,7 +34,8 @@
 
 <a href="https://github.com/persiandarik/persiandarik">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=persiandarik&repo=persiandarik&theme=buefy" />
-</a> | <a href="https://github.com/persiandarik/persiandarik.github.io">
+</a>
+<a href="https://github.com/persiandarik/persiandarik.github.io">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=persiandarik&repo=persiandarik.github.io&theme=buefy" />
 </a>
 
@@ -47,6 +48,9 @@
 <!-- <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a> -->
+
+<br />
+<br />
 
 ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/persiandarik/persiandarik/blob/output/github-contribution-grid-snake.gif)
