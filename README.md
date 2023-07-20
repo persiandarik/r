@@ -41,12 +41,12 @@
 
 
 
-- <a href="https://twitter.com/persiandarik">
+<code><a href="https://twitter.com/persiandarik">
   <img  alt="persiandarik | Twitter" height="20" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://twitter.com/persiandarik">
+</a></code>
+<code><a href="https://twitter.com/persiandarik">
   <img alt="persiandarik | Twitter" height="20" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+</a></code>
 
 <!-- ## Task List
 
