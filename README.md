@@ -8,7 +8,7 @@
 
 **About me**
 
-- 💼 Freelancer FrontEnd Engineer
+- 💼 Freelancer Frontend Engineer
 <!-- - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/) -->
 
 <!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub -->
