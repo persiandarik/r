@@ -47,7 +47,9 @@
 
 ## Task List
 
-- [x] html [x] css [x] js
+- [x] html
+- [x] css
+- [x] js
 - [ ] vue
 
 
