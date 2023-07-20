@@ -39,7 +39,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=persiandarik&repo=persiandarik.github.io&theme=buefy" />
 </a>
 
-<br />
+####
 
 <a href="https://twitter.com/persiandarik">
   <img align="right" alt="persiandarik | Twitter" height="20" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -47,6 +47,6 @@
 
 ## Watch my contribution graph eaten by the snake🐍
 
-<br />
+####
 
 ![snake gif](https://github.com/persiandarik/persiandarik/blob/output/github-contribution-grid-snake.gif)
