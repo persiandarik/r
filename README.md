@@ -35,7 +35,7 @@
 <a href="https://github.com/persiandarik/persiandarik">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=persiandarik&repo=persiandarik&theme=buefy" />
 </a>
-<a href="https://github.com/persiandarik/persiandarik.github.io">
+- [x] <a href="https://github.com/persiandarik/persiandarik.github.io">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=persiandarik&repo=persiandarik.github.io&theme=buefy" />
 </a>
 
